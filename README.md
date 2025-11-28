@@ -159,8 +159,8 @@ The portfolio is fully responsive and optimized for:
 
 ## 🔗 External Links
 
-- **LinkedIn**: [linkedin.com/in/atulpandeyaics](https://www.linkedin.com/in/atulpandeyaics)
-- **GitHub**: github.com/atulpandeyaics
+- **LinkedIn**: https://www.linkedin.com/in/atulpandeyaics/
+- **GitHub**: https://github.com/Atulaics
 - **Email**: atulpandey.aics@gmail.com
 
 ## 📝 Content Highlights
@@ -174,7 +174,7 @@ The portfolio is fully responsive and optimized for:
   - Remote Sensing Learner
 
 ### Professional Experience
-- **UNLOX®** - Technical role
+- **UNLOX®** - CA
 - **Mood Indigo IIT Bombay** - Team member
 
 ### Key Certifications
@@ -184,7 +184,6 @@ The portfolio is fully responsive and optimized for:
 4. Internship Common Aptitude Test (ISO 9001:2015)
 
 ### Notable Achievements
-- HackCBS 8.0 Participant (India's Largest Hackathon)
 - Multiple professional certifications
 - ISRO training selection
 
@@ -257,7 +256,7 @@ This is a static website that can be deployed to:
 ## 🤝 Contact
 
 For opportunities, collaborations, or inquiries:
-- **LinkedIn**: [linkedin.com/in/atulpandeyaics](https://www.linkedin.com/in/atulpandeyaics)
+- **LinkedIn**: https://www.linkedin.com/in/atulpandeyaics/
 - **Email**: atulpandey.aics@gmail.com
 
 ---
